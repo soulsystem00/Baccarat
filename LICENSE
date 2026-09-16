@@ -1,16 +1,54 @@
-MIT License
+SoulSystem Non-Commercial License
 
 Copyright (c) 2026 SoulSystem
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software for personal, educational,
+research, and other non-commercial purposes, subject to the following
+conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Non-Commercial Use
+
+The Software may be used, copied, modified, and distributed freely for
+personal, educational, research, and other non-commercial purposes.
+
+2. Commercial Use Prohibited
+
+The Software may not be used for commercial purposes without prior written
+permission from the copyright holder.
+
+Commercial use includes, but is not limited to:
+
+* Including the Software in a product or service that is sold or monetized.
+* Using the Software as part of a paid service.
+* Using the Software to generate revenue directly or indirectly.
+* Selling, licensing, sublicensing, or otherwise monetizing the Software
+  or any derivative work.
+
+3. Modification and Distribution
+
+You may modify the Software and distribute original or modified versions
+for non-commercial purposes.
+
+Any distributed copy or substantial portion of the Software must include
+the original copyright notice and this license.
+
+4. Commercial License
+
+If you wish to use the Software for commercial purposes, you must obtain
+prior written permission from the copyright holder.
+
+The copyright holder may grant a separate commercial license under terms
+agreed upon by both parties.
+
+5. No Additional Restrictions
+
+Except for the restrictions on commercial use described above, you are
+free to use, copy, modify, and distribute the Software for non-commercial
+purposes.
+
+6. Disclaimer
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
