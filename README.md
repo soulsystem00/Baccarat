@@ -1,3 +1,5 @@
+[![License: SoulSystem Non-Commercial](https://img.shields.io/badge/License-SoulSystem--Non--Commercial-orange.svg)](LICENSE)
+
 # Baccarat
 
 넷마블 포커에서 바카라 하다가  
