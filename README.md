@@ -41,3 +41,20 @@
 | Tie         |    8:1 |
 | Player Pair |   11:1 |
 | Banker Pair |   11:1 |
+
+## License
+
+This project is licensed under the **SoulSystem Non-Commercial License**.
+
+You are free to:
+
+* Use the software for personal and non-commercial purposes
+* Copy and modify the source code
+* Distribute original or modified versions
+* Use the software for educational and research purposes
+
+**Commercial use is not permitted without prior written permission.**
+
+For commercial licensing, please contact the copyright holder.
+
+See the [LICENSE](LICENSE) file for the full license terms.
